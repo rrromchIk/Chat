@@ -12,6 +12,7 @@ Node.js, Vue.js. Express, Mongoose, Axios
 ### Running
 socketio-node> nodemon server.js
 socketio-vue> npm run serve
+
 ---
 
 ![image](https://github.com/rrromchIk/Chat/assets/90086332/8f7a072e-b597-4836-80b3-fd90c6565017)
